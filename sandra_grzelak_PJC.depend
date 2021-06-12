@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1593169013 source:c:\users\sandr\desktop\sandra_grzelak_pjc\main.cpp
+	<iostream>
+	<filesystem>
+	<dirent.h>
+	<sys/stat.h>
+	<string.h>
+	<string>
+	<list>
+	"menu.h"
+	<fstream>
+
+1593168473 c:\users\sandr\desktop\sandra_grzelak_pjc\include\menu.h
+
+1593168431 source:c:\users\sandr\desktop\sandra_grzelak_pjc\src\menu.cpp
+	"menu.h"
+	<iostream>
+
+1593172095 source:c:\users\sandr\desktop\s21031_project\main.cpp
+	<iostream>
+	<filesystem>
+	<dirent.h>
+	<sys/stat.h>
+	<string.h>
+	<string>
+	<list>
+	"menu.h"
+	<fstream>
+
+1593172095 c:\users\sandr\desktop\s21031_project\include\menu.h
+
+1593172095 source:c:\users\sandr\desktop\s21031_project\src\menu.cpp
+	"menu.h"
+	<iostream>
+
+1593172095 source:c:\users\sandr\desktop\pjatk\c++ werner tasks\s21031_project\main.cpp
+	<iostream>
+	<filesystem>
+	<dirent.h>
+	<sys/stat.h>
+	<string.h>
+	<string>
+	<list>
+	"menu.h"
+	<fstream>
+
+1593172095 c:\users\sandr\desktop\pjatk\c++ werner tasks\s21031_project\include\menu.h
+
+1593172095 source:c:\users\sandr\desktop\pjatk\c++ werner tasks\s21031_project\src\menu.cpp
+	"menu.h"
+	<iostream>
+
